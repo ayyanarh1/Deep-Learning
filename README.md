@@ -1,0 +1,1 @@
+This repository demonstrates hands-on implementation of deep learning models (ANN, CNN, AlexNet, VGG16) including hyperparameter tuning and model evaluation, forming the foundation for applying AI models in real-world scenarios such as geospatial and risk analytics.
